@@ -21,7 +21,7 @@ http://dropbox.com/
 https://www.google.com/drive/
 
 5)
-Download Rclone, to perform the backups. Unzip it, and extract the file "rclone" into your "backup scripts" folder.
+Download Rclone, to perform the backups. Unzip it, and extract the file "rclone" into your "tools" folder.
 http://rclone.org/
 
 6)
@@ -29,4 +29,7 @@ Open Terminal or Command Line. Type the following and follow the instructions, e
 rclone config
 
 7)
-Double click the backup script within the "backup scripts" folder to backup. If on windows, use the ones prefixed with "windows".
+Double click the backup script within the "tools" folder to backup. If on windows, use the ones prefixed with "windows".
+
+8)
+After a backup, all photos will be locked. To unlock for editing (why would you do this?!) use the "unlock files" script, in the "tools" folder.
